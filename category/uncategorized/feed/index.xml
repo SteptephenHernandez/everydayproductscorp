@@ -8,24 +8,50 @@
 	>
 
 <channel>
-	<title>Uncategorized &#8211; Everydayproductscorp</title>
+	<title>Uncategorized &#8211; EVERYDAY PRODUCTS CORP.</title>
 	<atom:link href="https://ph3n1993.github.io/everydayproductscorp/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ph3n1993.github.io/everydayproductscorp</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Thu, 06 May 2021 14:44:45 +0000</lastBuildDate>
+	<description></description>
+	<lastBuildDate>Tue, 14 Jan 2020 07:58:48 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.1</generator>
+
+<image>
+	<url>https://ph3n1993.github.io/everydayproductscorp/wp-content/uploads/job-manager-uploads/company_logo/2019/06/download-e1559030739836.png</url>
+	<title>Uncategorized &#8211; EVERYDAY PRODUCTS CORP.</title>
+	<link>https://ph3n1993.github.io/everydayproductscorp</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
-		<title>Hello world!</title>
-		<link>https://ph3n1993.github.io/everydayproductscorp/2021/05/06/hello-world/</link>
-					<comments>https://ph3n1993.github.io/everydayproductscorp/2021/05/06/hello-world/#comments</comments>
+		<title>Elementor #25916</title>
+		<link>https://ph3n1993.github.io/everydayproductscorp/elementor-25916/</link>
+					<comments>https://ph3n1993.github.io/everydayproductscorp/elementor-25916/#respond</comments>
 		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Thu, 06 May 2021 14:44:45 +0000</pubDate>
+		<dc:creator><![CDATA[misadmin]]></dc:creator>
+		<pubDate>Tue, 14 Jan 2020 07:58:30 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://ph3n1993.github.io/everydayproductscorp/?p=25916</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://ph3n1993.github.io/everydayproductscorp/elementor-25916/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>https://ph3n1993.github.io/everydayproductscorp/hello-world/</link>
+					<comments>https://ph3n1993.github.io/everydayproductscorp/hello-world/#respond</comments>
+		
+		<dc:creator><![CDATA[misadmin]]></dc:creator>
+		<pubDate>Thu, 11 Apr 2019 09:26:15 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">https://ph3n1993.github.io/everydayproductscorp/?p=1</guid>
 
@@ -34,8 +60,8 @@
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://ph3n1993.github.io/everydayproductscorp/2021/05/06/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
+					<wfw:commentRss>https://ph3n1993.github.io/everydayproductscorp/hello-world/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
